@@ -28,7 +28,7 @@ $kontakty = [
     [
       'jmeno' => 'Dr. Watson',
       'pozice' => 'lékař',
-      'adresa' => 'Baker Street !)',
+      'adresa' => 'Baker Street 10',
 	    'obrazek' => 'assets/img/watson.jpg'
     ],
   ];
